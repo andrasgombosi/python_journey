@@ -1,6 +1,6 @@
 print "q1 -> door 1 or 2"
 
-door = raw_input("> ")
+door = raw_input(">  ")
 
 if door == "1":
     print "Bear eating cake, what you do"
